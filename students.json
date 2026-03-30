@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Aadi",
+        "roll": "1",
+        "course": "B.Tech in Computer Science (CSE)"
+    },
+    {
+        "name": "Aakash",
+        "roll": "2",
+        "course": "B.Com"
+    },
+    {
+        "name": "Piyush",
+        "roll": "3",
+        "course": "B.A. in English Literature"
+    },
+    {
+        "name": "Yash",
+        "roll": "4",
+        "course": "B.Tech in Computer Science"
+    },
+    {
+        "name": "Ansh",
+        "roll": "5",
+        "course": "B.Tech in Electronics"
+    },
+    {
+        "name": "Aryan",
+        "roll": "6",
+        "course": "B.B.A"
+    },
+    {
+        "name": "Anadi",
+        "roll": "7",
+        "course": "M.B.A"
+    }
+]
